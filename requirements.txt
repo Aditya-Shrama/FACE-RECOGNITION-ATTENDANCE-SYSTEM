@@ -1,0 +1,9 @@
+flask
+mysql.connector
+pandas
+numpy
+Gunicorn
+cmake
+dlib==19.22.0
+face_recognition
+opencv-python
